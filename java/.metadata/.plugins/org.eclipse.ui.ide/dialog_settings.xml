@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\java\ex20"/>
+			<item value="D:\java\ex19"/>
+			<item value="D:\java\ex18"/>
+			<item value="D:\java\ex17"/>
+			<item value="D:\java\ex16"/>
+			<item value="D:\java\ex15"/>
+			<item value="D:\java\ex14"/>
+			<item value="D:\java\ex13"/>
+			<item value="D:\java\ex12"/>
+			<item value="D:\java\ex11"/>
+			<item value="D:\java\ex10"/>
+			<item value="D:\java\ex09"/>
+			<item value="D:\java\ex08"/>
+			<item value="D:\java\ex07"/>
+			<item value="D:\java\ex06"/>
+			<item value="D:\java\ex05"/>
+			<item value="D:\java\ex04"/>
+			<item value="D:\java\ex03"/>
+			<item value="C:\Users\Yongling\OneDrive\桌面\JAVA助教\java範例檔\ex02"/>
+			<item value="C:\Users\Yongling\OneDrive\桌面\JAVA助教\java範例檔\ex01"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+		<section name="ExternalProjectImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="663"/>
+			<item key="DIALOG_Y_ORIGIN" value="148"/>
+			<item key="DIALOG_WIDTH" value="613"/>
+			<item key="DIALOG_HEIGHT" value="833"/>
+			<item key="DIALOG_FONT_NAME" value="1|Microsoft JhengHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft JhengHei UI"/>
+		</section>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="663"/>
+		<item key="DIALOG_Y_ORIGIN" value="96"/>
+		<item key="DIALOG_WIDTH" value="613"/>
+		<item key="DIALOG_HEIGHT" value="635"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft JhengHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft JhengHei UI"/>
+	</section>
+</section>
